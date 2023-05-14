@@ -3,7 +3,7 @@ This work was done during Winter Semester at IIIT Delhi in the course CSE640-Col
 Angshul Majumdar. 
 <br />
 <br />
-In this project, we need to implement atleast 2 research papers from either Core A* conferences or RecSys conference or Elsevier journal with impact factor > 5 related to Recommendation Systems on different datasets as that of papers. In this project, we were a team of 5 students and we implemented 4 research papers. We implemented the following papers:-
+In this project, we need to implement atleast 2 research papers from either Core A* conferences or RecSys conference or Elsevier journal with impact factor > 5 published after 2014 related to Recommendation Systems on datasets different from that used by authors in the papers. In this project, we were a team of 5 students and we implemented 4 research papers. We implemented the following papers:-
 1. Enhancing VAEs for Collaborative Filtering: Flexible Priors & Gating Mechanisms (https://arxiv.org/abs/1911.00936)
 2. Variational Autoencoders for Collaborative Filtering (https://arxiv.org/abs/1802.05814)
 3. AutoRec: Autoencoders Meet Collaborative Filtering (https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
